@@ -1,10 +1,6 @@
-# csc413-SecondGame
+# Rainbow Reef Game
 
-## Student Name : CHRISTOPHER ROSANA
-## Student ID : 917947321
-
-
-# Rainbow Reef
+This game is similar to brick breaker game. 
 
 This project is made in IntelliJ IDEA. The version of Java to build this game is 1.8.
 
