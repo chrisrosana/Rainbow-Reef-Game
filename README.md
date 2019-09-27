@@ -8,6 +8,7 @@ Please read Documentation.pdf to know how to open and run the game.
 
 Player controls are: 
 
-LEFT arrow key(move left) and RIGHT arrow key(move right). 
+LEFT arrow key(move left) and 
+RIGHT arrow key(move right). 
 
 
