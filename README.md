@@ -1,4 +1,6 @@
-# Rainbow Reef Game
+![alt text](https://raw.githubusercontent.com/chrisrosana/Rainbow-Reef-Game/master/Screen%20Shot%202019-09-27%20at%209.22.11%20AM.png)
+
+# Super Rainbow Reef
 
 This game is similar to brick breaker game. 
 
